@@ -300,3 +300,65 @@ text-align: center;
     gap: 20px;
 }
 /* _________________Section1 End HERE____________________ */
+
+/* _________________Section2 Start HERE____________________ */
+
+
+#section__2{
+    padding: 120px 0px 120px 0px;
+    margin-bottom: 122px;
+
+}
+
+.section2_items{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+
+.section2_content h5{
+   color: #30B868;
+   text-transform: uppercase;
+   font-family: "Inter", sans-serif;
+   font-size: 16px;
+   margin-bottom: 16px;
+}
+
+.section2_content h2{
+font-family: "Inter", sans-serif;
+font-weight: 700;
+font-size: 48px;
+text-transform: capitalize;
+text-align: left;
+width: 665px;
+color: #001931;
+margin-bottom: 16px;
+}
+
+.section2_content p{
+width: 462px;
+font-family: "Inter", sans-serif;
+font-size: 16px;
+line-height: 20px;
+color: #627382;
+margin-bottom: 40px;
+}
+
+.section2_list{
+display: flex;
+flex-direction: column;
+gap: 16px;
+}
+
+.section2_list .list{
+    display: flex;
+    align-items: center;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: #001931;
+    font-weight: 500;
+    gap: 8px;
+}
+
+/* _________________Section2 End HERE____________________ */
